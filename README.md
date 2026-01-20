@@ -1,0 +1,2 @@
+# AI-Based-Image-Authenticity-Verification-System-for-Digital-IDs
+AI-Based Image Authenticity Verification System is a secure web application that analyzes uploaded digital ID images using AI to detect manipulation or AI generation. It supports user registration, role-based access, verification history, and administrative review while ensuring secure data storage and reliable authenticity results.
